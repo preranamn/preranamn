@@ -1,8 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=500&lines=Hey+,+This+is+Prerana" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=First+Year+CSE+Student+at+PES+University;Web+Developer+%7C+DSA+Enthusiast;Future+Software+Engineer+%F0%9F%9A%80;Building+Cool+Projects+%F0%9F%94%A5" />
+</p>
 
-<h3 align="center">👩‍💻 2nd Semester Student at PES University 🚀 Aspiring Software Engineer 🌱 Currently learning AI/ML, Web Development, and DSA 👥 Web Development Member at GronIT PES</h3>
+<h3 align="center">
+   Hi, I'm Prerana Nalwade – First-year CSE student at PES University, aspiring Software Engineer.  
+   Currently focusing on Artificial Intelligence & Machine Learning (AIML) and Data Structures & Algorithms (DSA) to strengthen my core fundamentals 💪  
+   👥 Web Development Member at GronIT PES
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranamn&label=Profile%20views&color=0e75b6&style=flat" alt="preranamn" /> </p>
 
