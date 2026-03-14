@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=First+Year+CSE+Student+at+PES+University;Web+Developer+%7C+DSA+Enthusiast;Future+Software+Engineer+%F0%9F%9A%80;Building+Cool+Projects+%F0%9F%94%A5" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/preranamn/preranamn/main/coding_girl.png" width="350" alt="coding girl"/>
+  <img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" width="350" alt="coding girl"/>
 </p>
 
 
