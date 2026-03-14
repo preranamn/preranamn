@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=First+Year+CSE+Student+at+PES+University;Web+Developer+%7C+DSA+Enthusiast;Future+Software+Engineer+%F0%9F%9A%80;Building+Cool+Projects+%F0%9F%94%A5" />
 </p>
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="450"/>
+  <img src="https://camo.githubusercontent.com/c301ef462a8624ce60dba1b12fe2ec52cf1b7babf89c5473cc3562c9b1d28684/68747470733a2f2f6d656469612e74656e6f722e636f6d2f773341504c6b4d75545830414141414d2f636f6d70757465722d776f726b2e676966" width="350" alt="coding girl"/>
 </p>
 
 
