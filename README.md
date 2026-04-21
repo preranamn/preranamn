@@ -8,13 +8,13 @@
 
 <h3 align="center">
    Hi, I'm Prerana Nalwade – First-year CSE student at PES University, aspiring Software Engineer.  
-   Currently focusing on Artificial Intelligence & Machine Learning (AIML) and Data Structures & Algorithms (DSA) to strengthen my core fundamentals 💪  
+   Currently focusing on Data Structures & Algorithms (DSA) to strengthen my core fundamentals 💪  
    👥 Web Development Member at GronIT PES
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranamn&label=Profile%20views&color=0e75b6&style=flat" alt="preranamn" /> </p>
 
-- 🌱 I’m currently learning **AIML,DSA**
+- 🌱 I’m currently learning **CP,DSA**
 
 - 📫 How to reach me **preranatpes@gmail.com**
 
