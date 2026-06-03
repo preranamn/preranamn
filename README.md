@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/preranamn/preranamn/main/assets/coding.gif" width="400" alt="coding animation"/>
+  <img src="./assets/coding.gif" width="400" alt="coding animation"/>
 </p>
 
 
