@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Prerana Nalwade
+  Hi 👋, I'm Prerana Nalawade
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="./assets/coding.gif" width="400" alt="coding animation"/>
+  <img src="./assets/coding1.gif" width="400" alt="coding animation"/>
 </p>
 
 
@@ -65,28 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=preranamn&show_icons=true&theme=tokyonight"/>
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=preranamn&theme=tokyonight"/>
-</p>
-
-
----
-
-## 🚀 Projects
-
-🔹 Web Development Projects  
-🔹 DSA Practice Repository  
-🔹 Mini Projects & Experiments  
-
-
----
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=preranamn&label=Profile%20Views&color=blue&style=flat"/>
